@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\bin\Debug\net8.0\AprendendoC#.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\bin\Debug\net8.0\AprendendoC#.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\bin\Debug\net8.0\AprendendoC#.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\bin\Debug\net8.0\AprendendoC#.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\bin\Debug\net8.0\AprendendoC#.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\refint\AprendendoC#.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\AprendendoC#.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\AprendendoC#\obj\Debug\net8.0\ref\AprendendoC#.dll
