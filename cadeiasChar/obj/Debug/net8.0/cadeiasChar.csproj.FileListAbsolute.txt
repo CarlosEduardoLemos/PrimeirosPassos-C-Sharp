@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\bin\Debug\net8.0\cadeiasChar.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\bin\Debug\net8.0\cadeiasChar.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\bin\Debug\net8.0\cadeiasChar.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\bin\Debug\net8.0\cadeiasChar.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\bin\Debug\net8.0\cadeiasChar.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\refint\cadeiasChar.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\cadeiasChar.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\cadeiasChar\obj\Debug\net8.0\ref\cadeiasChar.dll
