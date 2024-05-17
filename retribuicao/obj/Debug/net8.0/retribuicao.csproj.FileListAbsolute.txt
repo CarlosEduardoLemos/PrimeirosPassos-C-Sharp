@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\bin\Debug\net8.0\retribuicao.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\bin\Debug\net8.0\retribuicao.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\bin\Debug\net8.0\retribuicao.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\bin\Debug\net8.0\retribuicao.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\bin\Debug\net8.0\retribuicao.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\refint\retribuicao.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\retribuicao.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\retribuicao\obj\Debug\net8.0\ref\retribuicao.dll
