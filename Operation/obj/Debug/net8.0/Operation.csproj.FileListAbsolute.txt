@@ -1,0 +1,5 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Operation\obj\Debug\net8.0\Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Operation\obj\Debug\net8.0\Operation.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Operation\obj\Debug\net8.0\Operation.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Operation\obj\Debug\net8.0\Operation.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Operation\obj\Debug\net8.0\Operation.sourcelink.json

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenacao", "Concatenaca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adicao", "Adicao\Adicao.csproj", "{92F56679-092C-4975-BBD0-9DDC22CF7753}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation", "Operation\Operation.csproj", "{23324A1D-FA02-4DED-93DC-E31242A57C42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23324A1D-FA02-4DED-93DC-E31242A57C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23324A1D-FA02-4DED-93DC-E31242A57C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23324A1D-FA02-4DED-93DC-E31242A57C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23324A1D-FA02-4DED-93DC-E31242A57C42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
