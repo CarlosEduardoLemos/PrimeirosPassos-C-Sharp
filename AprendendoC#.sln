@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retribuicao", "retribuicao\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadeiasChar", "cadeiasChar\cadeiasChar.csproj", "{925137EB-3FF8-4E34-99DA-B3247B698272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenacao", "Concatenacao\Concatenacao.csproj", "{D8345164-AF6C-4BE1-BFB4-461EAC6DD625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adicao", "Adicao\Adicao.csproj", "{92F56679-092C-4975-BBD0-9DDC22CF7753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{925137EB-3FF8-4E34-99DA-B3247B698272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{925137EB-3FF8-4E34-99DA-B3247B698272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{925137EB-3FF8-4E34-99DA-B3247B698272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8345164-AF6C-4BE1-BFB4-461EAC6DD625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8345164-AF6C-4BE1-BFB4-461EAC6DD625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8345164-AF6C-4BE1-BFB4-461EAC6DD625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8345164-AF6C-4BE1-BFB4-461EAC6DD625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F56679-092C-4975-BBD0-9DDC22CF7753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -7,3 +7,7 @@ Use a diretiva @ para criar um literal de cadeia de caracteres que mantenha toda
 Use o \u mais um código de quatro caracteres para representar caracteres Unicode (UTF-16) em uma cadeia de caracteres.
 
 Os caracteres Unicode podem não ser impressos corretamente dependendo do aplicativo.
+
+A concatenação de cadeia de caracteres permite combinar cadeias de caracteres literais menores e variáveis em uma única cadeia de caracteres.
+
+Evite criar variáveis intermediárias se adicioná-las não aumentar a legibilidade.

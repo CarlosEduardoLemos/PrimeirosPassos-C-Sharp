@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\bin\Debug\net8.0\Concatenacao.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\bin\Debug\net8.0\Concatenacao.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\bin\Debug\net8.0\Concatenacao.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\bin\Debug\net8.0\Concatenacao.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\bin\Debug\net8.0\Concatenacao.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\refint\Concatenacao.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\Concatenacao.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Concatenacao\obj\Debug\net8.0\ref\Concatenacao.dll
