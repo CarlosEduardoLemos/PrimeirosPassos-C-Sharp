@@ -11,10 +11,10 @@ Console.WriteLine("Quotient: " + quotient);
 decimal decimalQuotient = 7.0m / 5;
 Console.WriteLine($"Decimal quotient: {decimalQuotient}");
 
-decimal decimalQuotient = 7 / 5.0m;
-decimal decimalQuotient = 7.0m / 5.0m;
+decimal decimalQuotiente = 7 / 5.0m;
+decimal decimalQuotienti = 7.0m / 5.0m;
 
 int first = 7;
 int second = 5;
-decimal quotient = (decimal)first / (decimal)second;
+decimal quotientx = (decimal)first / (decimal)second;
 Console.WriteLine(quotient);

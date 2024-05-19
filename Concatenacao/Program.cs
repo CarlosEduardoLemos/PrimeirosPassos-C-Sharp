@@ -8,8 +8,8 @@ Console.WriteLine(greeting + " " + firstNames + "!");
 
 int version = 11;
 string updateText = "Update to Windows";
-string message = $"{updateText} {version}";
-Console.WriteLine(message);
+string messages = $"{updateText} {version}";
+Console.WriteLine(messages);
 
 int version1 = 11;
 string updateText1 = "Update to Windows";
