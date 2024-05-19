@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\bin\Debug\net8.0\MediaAlunos.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\bin\Debug\net8.0\MediaAlunos.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\bin\Debug\net8.0\MediaAlunos.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\bin\Debug\net8.0\MediaAlunos.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\bin\Debug\net8.0\MediaAlunos.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\refint\MediaAlunos.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\MediaAlunos.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MediaAlunos\obj\Debug\net8.0\ref\MediaAlunos.dll
