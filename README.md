@@ -1,5 +1,3 @@
----
-
 # Primeiros Passos no C#
 
 Bem-vindo ao meu repositório onde estou documentando minha jornada de aprendizado no C#! Estou estudando principalmente através do Microsoft Learn e da documentação oficial da Microsoft.
@@ -65,5 +63,3 @@ Sinta-se à vontade para abrir issues para relatar bugs ou sugerir melhorias. Pu
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
