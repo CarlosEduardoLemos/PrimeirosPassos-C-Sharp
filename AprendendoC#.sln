@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatura", "Temperatura\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAlunos", "MediaAlunos\MediaAlunos.csproj", "{A31C64CA-0DB6-412A-B892-D1107EF2AD93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatacao", "Formatacao\Formatacao.csproj", "{00F0093B-989F-4E5F-86E4-45280A24DA1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{A31C64CA-0DB6-412A-B892-D1107EF2AD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A31C64CA-0DB6-412A-B892-D1107EF2AD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A31C64CA-0DB6-412A-B892-D1107EF2AD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
