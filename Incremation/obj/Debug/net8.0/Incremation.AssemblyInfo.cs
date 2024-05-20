@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Incremation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d24c7859f82aa9eec01c75037a59ee6dc79fdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeb88094dab3345d969f2e3f62e4f7496c19d320")]
 [assembly: System.Reflection.AssemblyProductAttribute("Incremation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Incremation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
