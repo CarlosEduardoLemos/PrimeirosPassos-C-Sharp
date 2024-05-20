@@ -11,3 +11,10 @@ Os caracteres Unicode podem não ser impressos corretamente dependendo do aplica
 A concatenação de cadeia de caracteres permite combinar cadeias de caracteres literais menores e variáveis em uma única cadeia de caracteres.
 
 Evite criar variáveis intermediárias se adicioná-las não aumentar a legibilidade.
+
+
+==, o operador "igual" para testar a igualdade
+>, o operador "maior que", para testar se o valor à esquerda é maior que o valor à direita
+<, o operador "menor que", para testar se o valor à esquerda é menor que o valor à direita
+>=, o operador "maior ou igual a"
+<=, o operador "menor ou igual a"

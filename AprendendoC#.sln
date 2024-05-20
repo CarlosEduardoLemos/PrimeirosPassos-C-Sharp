@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAlunos", "MediaAlunos\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatacao", "Formatacao\Formatacao.csproj", "{00F0093B-989F-4E5F-86E4-45280A24DA1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximo", "maximo\maximo.csproj", "{61B6E304-B79C-4DBF-96CB-81B974F34E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumAleatorio", "NumAleatorio\NumAleatorio.csproj", "{B66DA802-3012-4D15-B3C4-192AF6747756}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00F0093B-989F-4E5F-86E4-45280A24DA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B6E304-B79C-4DBF-96CB-81B974F34E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B6E304-B79C-4DBF-96CB-81B974F34E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B6E304-B79C-4DBF-96CB-81B974F34E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B6E304-B79C-4DBF-96CB-81B974F34E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66DA802-3012-4D15-B3C4-192AF6747756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66DA802-3012-4D15-B3C4-192AF6747756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66DA802-3012-4D15-B3C4-192AF6747756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66DA802-3012-4D15-B3C4-192AF6747756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

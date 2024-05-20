@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\bin\Debug\net8.0\NumAleatorio.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\bin\Debug\net8.0\NumAleatorio.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\bin\Debug\net8.0\NumAleatorio.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\bin\Debug\net8.0\NumAleatorio.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\bin\Debug\net8.0\NumAleatorio.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\refint\NumAleatorio.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\NumAleatorio.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\NumAleatorio\obj\Debug\net8.0\ref\NumAleatorio.dll

@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\bin\Debug\net8.0\maximo.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\bin\Debug\net8.0\maximo.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\bin\Debug\net8.0\maximo.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\bin\Debug\net8.0\maximo.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\bin\Debug\net8.0\maximo.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\refint\maximo.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\maximo.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\maximo\obj\Debug\net8.0\ref\maximo.dll
