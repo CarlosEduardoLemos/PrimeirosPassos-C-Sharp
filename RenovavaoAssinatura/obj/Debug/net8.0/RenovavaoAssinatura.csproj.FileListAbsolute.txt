@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\bin\Debug\net8.0\RenovavaoAssinatura.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\bin\Debug\net8.0\RenovavaoAssinatura.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\bin\Debug\net8.0\RenovavaoAssinatura.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\bin\Debug\net8.0\RenovavaoAssinatura.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\bin\Debug\net8.0\RenovavaoAssinatura.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\refint\RenovavaoAssinatura.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\RenovavaoAssinatura.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\RenovavaoAssinatura\obj\Debug\net8.0\ref\RenovavaoAssinatura.dll

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximo", "maximo\maximo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumAleatorio", "NumAleatorio\NumAleatorio.csproj", "{B66DA802-3012-4D15-B3C4-192AF6747756}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenovavaoAssinatura", "RenovavaoAssinatura\RenovavaoAssinatura.csproj", "{307BE672-5549-419B-AF7A-8EE366F1BBBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{B66DA802-3012-4D15-B3C4-192AF6747756}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B66DA802-3012-4D15-B3C4-192AF6747756}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B66DA802-3012-4D15-B3C4-192AF6747756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
