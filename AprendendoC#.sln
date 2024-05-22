@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumAleatorio", "NumAleatori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenovavaoAssinatura", "RenovavaoAssinatura\RenovavaoAssinatura.csproj", "{307BE672-5549-419B-AF7A-8EE366F1BBBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{307BE672-5549-419B-AF7A-8EE366F1BBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

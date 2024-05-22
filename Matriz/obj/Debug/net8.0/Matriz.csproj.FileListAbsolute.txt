@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\bin\Debug\net8.0\Matriz.exe
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\bin\Debug\net8.0\Matriz.deps.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\bin\Debug\net8.0\Matriz.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\bin\Debug\net8.0\Matriz.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.sourcelink.json
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.pdb
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+C:\Users\carlos.lemos\Documents\PrimeirosPassos-C#\Matriz\obj\Debug\net8.0\ref\Matriz.dll
