@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenovavaoAssinatura", "Reno
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{C5257183-207E-4C81-B68A-3ADEAB699DC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62AD3562-4D39-4E75-B5B8-DF67DF924EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,15 +1,11 @@
 Use as sequências de escape de caractere quando precisar inserir um caractere especial em uma cadeia de caracteres literal, como uma tabulação \t, uma nova linha \n ou uma aspa dupla \".
 
 Use um caractere de escape para a barra invertida \\ quando precisar usar uma barra invertida em todos os outros cenários.
-
 Use a diretiva @ para criar um literal de cadeia de caracteres que mantenha toda a formatação de espaço em branco e caracteres de barra invertida em uma cadeia de caracteres.
-
 Use o \u mais um código de quatro caracteres para representar caracteres Unicode (UTF-16) em uma cadeia de caracteres.
 
 Os caracteres Unicode podem não ser impressos corretamente dependendo do aplicativo.
-
 A concatenação de cadeia de caracteres permite combinar cadeias de caracteres literais menores e variáveis em uma única cadeia de caracteres.
-
 Evite criar variáveis intermediárias se adicioná-las não aumentar a legibilidade.
 
 
@@ -18,3 +14,8 @@ Evite criar variáveis intermediárias se adicioná-las não aumentar a legibili
 <, o operador "menor que", para testar se o valor à esquerda é menor que o valor à direita
 >=, o operador "maior ou igual a"
 <=, o operador "menor ou igual a"
+
+
+Use a instrução foreach para iterar em cada elemento de uma matriz, executando o bloco de código associado uma vez para cada elemento da matriz.
+A instrução foreach define o valor do elemento atual na matriz como uma variável temporária, que pode ser usada no corpo do bloco de código.
+Use o operador de incremento ++ para adicionar 1 ao valor atual de uma variável.
