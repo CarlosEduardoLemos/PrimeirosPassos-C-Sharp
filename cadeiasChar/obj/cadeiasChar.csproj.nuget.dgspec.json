@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\cadeiasChar\\cadeiasChar.csproj": {}
+    "C:\\Users\\carlos.lemos\\Documents\\PrimeirosPassos-C#\\cadeiasChar\\cadeiasChar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\cadeiasChar\\cadeiasChar.csproj": {
+    "C:\\Users\\carlos.lemos\\Documents\\PrimeirosPassos-C#\\cadeiasChar\\cadeiasChar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\cadeiasChar\\cadeiasChar.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.lemos\\Documents\\PrimeirosPassos-C#\\cadeiasChar\\cadeiasChar.csproj",
         "projectName": "cadeiasChar",
-        "projectPath": "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\cadeiasChar\\cadeiasChar.csproj",
-        "packagesPath": "C:\\Users\\karll\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\cadeiasChar\\obj\\",
+        "projectPath": "C:\\Users\\carlos.lemos\\Documents\\PrimeirosPassos-C#\\cadeiasChar\\cadeiasChar.csproj",
+        "packagesPath": "C:\\Users\\carlos.lemos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlos.lemos\\Documents\\PrimeirosPassos-C#\\cadeiasChar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\karll\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\carlos.lemos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
