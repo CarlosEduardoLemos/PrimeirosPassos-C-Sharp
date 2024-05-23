@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\bin\Debug\net8.0\DicaComentar.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\bin\Debug\net8.0\DicaComentar.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\bin\Debug\net8.0\DicaComentar.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\bin\Debug\net8.0\DicaComentar.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\bin\Debug\net8.0\DicaComentar.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\refint\DicaComentar.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\DicaComentar.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\DicaComentar\obj\Debug\net8.0\ref\DicaComentar.dll

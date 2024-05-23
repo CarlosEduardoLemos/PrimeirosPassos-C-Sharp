@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{C5257183-207E-4C81-B68A-3ADEAB699DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicaComentar", "DicaComentar\DicaComentar.csproj", "{75EB1015-45A9-42D8-A939-702E414CBAAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5257183-207E-4C81-B68A-3ADEAB699DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
