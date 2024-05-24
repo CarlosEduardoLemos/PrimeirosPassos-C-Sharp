@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicaComentar", "DicaComentar\DicaComentar.csproj", "{75EB1015-45A9-42D8-A939-702E414CBAAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes", "Matrizes\Matrizes.csproj", "{A53FBB69-67DB-42C1-9D9E-F6FC8FA62AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas", "Notas\Notas.csproj", "{6271C081-1AE1-408E-9754-92D0DEC06DC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +112,13 @@ Global
 		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75EB1015-45A9-42D8-A939-702E414CBAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53FBB69-67DB-42C1-9D9E-F6FC8FA62AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53FBB69-67DB-42C1-9D9E-F6FC8FA62AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53FBB69-67DB-42C1-9D9E-F6FC8FA62AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53FBB69-67DB-42C1-9D9E-F6FC8FA62AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6271C081-1AE1-408E-9754-92D0DEC06DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6271C081-1AE1-408E-9754-92D0DEC06DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6271C081-1AE1-408E-9754-92D0DEC06DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6271C081-1AE1-408E-9754-92D0DEC06DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

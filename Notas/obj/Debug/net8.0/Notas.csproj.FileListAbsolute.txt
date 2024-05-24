@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\bin\Debug\net8.0\Notas.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\bin\Debug\net8.0\Notas.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\bin\Debug\net8.0\Notas.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\bin\Debug\net8.0\Notas.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\bin\Debug\net8.0\Notas.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\refint\Notas.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\Notas.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Notas\obj\Debug\net8.0\ref\Notas.dll
