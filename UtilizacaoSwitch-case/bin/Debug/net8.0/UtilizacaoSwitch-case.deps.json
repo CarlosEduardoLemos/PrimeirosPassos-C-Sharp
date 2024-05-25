@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UtilizacaoSwitch-case/1.0.0": {
+        "runtime": {
+          "UtilizacaoSwitch-case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UtilizacaoSwitch-case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

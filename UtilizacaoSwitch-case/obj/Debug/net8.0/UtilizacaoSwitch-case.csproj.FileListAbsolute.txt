@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\bin\Debug\net8.0\UtilizacaoSwitch-case.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\bin\Debug\net8.0\UtilizacaoSwitch-case.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\bin\Debug\net8.0\UtilizacaoSwitch-case.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\bin\Debug\net8.0\UtilizacaoSwitch-case.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\bin\Debug\net8.0\UtilizacaoSwitch-case.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\refint\UtilizacaoSwitch-case.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\UtilizacaoSwitch-case.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\UtilizacaoSwitch-case\obj\Debug\net8.0\ref\UtilizacaoSwitch-case.dll
