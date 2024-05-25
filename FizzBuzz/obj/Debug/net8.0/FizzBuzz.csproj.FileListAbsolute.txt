@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll

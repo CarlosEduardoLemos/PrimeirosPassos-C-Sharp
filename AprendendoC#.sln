@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "Escopo\Escopo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizacaoSwitch-case", "UtilizacaoSwitch-case\UtilizacaoSwitch-case.csproj", "{4DE1D683-BFED-4669-8AEB-BA40737ABAC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop01", "Loop01\Loop01.csproj", "{BC35AF3D-E85E-4FDE-B9D9-B01EC1B26565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{72105197-0FA5-4A03-A6D3-6C3E44FCB682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +142,13 @@ Global
 		{4DE1D683-BFED-4669-8AEB-BA40737ABAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE1D683-BFED-4669-8AEB-BA40737ABAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE1D683-BFED-4669-8AEB-BA40737ABAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC35AF3D-E85E-4FDE-B9D9-B01EC1B26565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC35AF3D-E85E-4FDE-B9D9-B01EC1B26565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC35AF3D-E85E-4FDE-B9D9-B01EC1B26565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC35AF3D-E85E-4FDE-B9D9-B01EC1B26565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72105197-0FA5-4A03-A6D3-6C3E44FCB682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72105197-0FA5-4A03-A6D3-6C3E44FCB682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72105197-0FA5-4A03-A6D3-6C3E44FCB682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72105197-0FA5-4A03-A6D3-6C3E44FCB682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
