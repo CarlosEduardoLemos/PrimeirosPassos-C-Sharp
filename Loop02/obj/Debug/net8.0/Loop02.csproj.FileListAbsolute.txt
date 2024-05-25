@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\bin\Debug\net8.0\Loop02.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\bin\Debug\net8.0\Loop02.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\bin\Debug\net8.0\Loop02.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\bin\Debug\net8.0\Loop02.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\bin\Debug\net8.0\Loop02.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\refint\Loop02.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\Loop02.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Loop02\obj\Debug\net8.0\ref\Loop02.dll
