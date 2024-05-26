@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\bin\Debug\net8.0\TiposNum.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\bin\Debug\net8.0\TiposNum.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\bin\Debug\net8.0\TiposNum.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\bin\Debug\net8.0\TiposNum.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\bin\Debug\net8.0\TiposNum.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\refint\TiposNum.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\TiposNum.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\TiposNum\obj\Debug\net8.0\ref\TiposNum.dll

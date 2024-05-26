@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "..\..\..\Downloads
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimaisDestimacao", "AnimaisDestimacao\AnimaisDestimacao.csproj", "{ADEB91F6-1E5C-483F-85E9-A348D6710478}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposNum", "TiposNum\TiposNum.csproj", "{F610E66B-CF7D-4D94-93F4-8A647C1BF101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,5 +188,9 @@ Global
 		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F610E66B-CF7D-4D94-93F4-8A647C1BF101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F610E66B-CF7D-4D94-93F4-8A647C1BF101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F610E66B-CF7D-4D94-93F4-8A647C1BF101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F610E66B-CF7D-4D94-93F4-8A647C1BF101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
