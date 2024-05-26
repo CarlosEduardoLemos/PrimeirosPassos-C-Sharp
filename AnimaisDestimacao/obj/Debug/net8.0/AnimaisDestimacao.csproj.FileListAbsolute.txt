@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\refint\AnimaisDestimacao.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\ref\AnimaisDestimacao.dll

@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto3", "Projeto3\Projet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "..\..\..\Downloads\Guided-project-branching-looping-CSharp-main\Guided-project-branching-looping-CSharp-main\GuidedProject\Final\Final.csproj", "{21E7153B-8B2E-41C0-BC5D-9F3E756BCC58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimaisDestimacao", "AnimaisDestimacao\AnimaisDestimacao.csproj", "{ADEB91F6-1E5C-483F-85E9-A348D6710478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{21E7153B-8B2E-41C0-BC5D-9F3E756BCC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21E7153B-8B2E-41C0-BC5D-9F3E756BCC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21E7153B-8B2E-41C0-BC5D-9F3E756BCC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEB91F6-1E5C-483F-85E9-A348D6710478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
