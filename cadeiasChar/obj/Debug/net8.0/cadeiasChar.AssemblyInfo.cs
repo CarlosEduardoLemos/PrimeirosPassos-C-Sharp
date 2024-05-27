@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cadeiasChar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da353b38290b22d4f5794ce682942d1fc94fc181")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a7cf36db59e17ed8ff3a7fadbaecf1034fed941")]
 [assembly: System.Reflection.AssemblyProductAttribute("cadeiasChar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cadeiasChar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
