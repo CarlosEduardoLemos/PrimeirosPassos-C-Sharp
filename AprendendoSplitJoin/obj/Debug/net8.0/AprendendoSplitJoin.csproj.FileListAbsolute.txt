@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\bin\Debug\net8.0\AprendendoSplitJoin.exe
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\bin\Debug\net8.0\AprendendoSplitJoin.deps.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\bin\Debug\net8.0\AprendendoSplitJoin.runtimeconfig.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\bin\Debug\net8.0\AprendendoSplitJoin.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\bin\Debug\net8.0\AprendendoSplitJoin.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.AssemblyInfo.cs
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.sourcelink.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\refint\AprendendoSplitJoin.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\AprendendoSplitJoin.genruntimeconfig.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AprendendoSplitJoin\obj\Debug\net8.0\ref\AprendendoSplitJoin.dll

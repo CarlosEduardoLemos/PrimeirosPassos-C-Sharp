@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\bin\Debug\net8.0\InvertOrdemPaletes.exe
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\bin\Debug\net8.0\InvertOrdemPaletes.deps.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\bin\Debug\net8.0\InvertOrdemPaletes.runtimeconfig.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\bin\Debug\net8.0\InvertOrdemPaletes.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\bin\Debug\net8.0\InvertOrdemPaletes.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.AssemblyInfo.cs
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.sourcelink.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\refint\InvertOrdemPaletes.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\InvertOrdemPaletes.genruntimeconfig.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\InvertOrdemPaletes\obj\Debug\net8.0\ref\InvertOrdemPaletes.dll
