@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvertOrdemPaletes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62d60e724d1410b2434e5401920c5a8c883dcc0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d6a1bc7fbe5aff50bf1ace60cfda6e62ab1bca9")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvertOrdemPaletes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvertOrdemPaletes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
