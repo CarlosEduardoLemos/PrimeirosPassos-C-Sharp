@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\bin\Debug\net8.0\Format.exe
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\bin\Debug\net8.0\Format.deps.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\bin\Debug\net8.0\Format.runtimeconfig.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\bin\Debug\net8.0\Format.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\bin\Debug\net8.0\Format.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.AssemblyInfo.cs
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.sourcelink.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\refint\Format.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\Format.genruntimeconfig.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\Format\obj\Debug\net8.0\ref\Format.dll

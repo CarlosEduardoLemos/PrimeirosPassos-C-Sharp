@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoSplitJoin", "Apre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverter frase", "Inverter frase\Inverter frase.csproj", "{F127B8EC-1EFA-4350-B880-37B806B7794E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Format", "Format\Format.csproj", "{1B079ED3-9FA4-41BC-A40D-E2C85B7EB8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecisaoUmMilésimo", "PrecisaoUmMilésimo\PrecisaoUmMilésimo.csproj", "{98F80EF8-6459-4379-AE89-39EDEC4287C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +226,13 @@ Global
 		{F127B8EC-1EFA-4350-B880-37B806B7794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F127B8EC-1EFA-4350-B880-37B806B7794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F127B8EC-1EFA-4350-B880-37B806B7794E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B079ED3-9FA4-41BC-A40D-E2C85B7EB8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B079ED3-9FA4-41BC-A40D-E2C85B7EB8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B079ED3-9FA4-41BC-A40D-E2C85B7EB8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B079ED3-9FA4-41BC-A40D-E2C85B7EB8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F80EF8-6459-4379-AE89-39EDEC4287C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F80EF8-6459-4379-AE89-39EDEC4287C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F80EF8-6459-4379-AE89-39EDEC4287C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F80EF8-6459-4379-AE89-39EDEC4287C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

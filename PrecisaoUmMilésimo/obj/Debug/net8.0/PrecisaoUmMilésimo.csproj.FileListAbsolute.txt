@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.AssemblyInfo.cs
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.sourcelink.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\bin\Debug\net8.0\PrecisaoUmMilésimo.exe
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\bin\Debug\net8.0\PrecisaoUmMilésimo.deps.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\bin\Debug\net8.0\PrecisaoUmMilésimo.runtimeconfig.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\bin\Debug\net8.0\PrecisaoUmMilésimo.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\bin\Debug\net8.0\PrecisaoUmMilésimo.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\refint\PrecisaoUmMilésimo.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\PrecisaoUmMilésimo.genruntimeconfig.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\PrecisaoUmMilésimo\obj\Debug\net8.0\ref\PrecisaoUmMilésimo.dll
