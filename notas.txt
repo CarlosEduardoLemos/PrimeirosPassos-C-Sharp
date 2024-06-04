@@ -19,3 +19,11 @@ Evite criar variáveis intermediárias se adicioná-las não aumentar a legibili
 Use a instrução foreach para iterar em cada elemento de uma matriz, executando o bloco de código associado uma vez para cada elemento da matriz.
 A instrução foreach define o valor do elemento atual na matriz como uma variável temporária, que pode ser usada no corpo do bloco de código.
 Use o operador de incremento ++ para adicionar 1 ao valor atual de uma variável.
+
+
+O tipo de dados string, cadeias de caracteres literais e variáveis do tipo String implementam muitos métodos auxiliares para formatar, modificar e executar outras operações nas cadeias de caracteres.
+Os métodos PadLeft() e PadRight() adicionam espaço em branco (ou, opcionalmente, outro caractere) ao comprimento total de uma cadeia de caracteres.
+Use PadLeft() para alinhar uma cadeia de caracteres à direita.
+Alguns métodos são sobrecarregados, o que significa que eles têm várias versões do método com diferentes argumentos que afetam sua funcionalidade.
+O operador += concatena uma nova cadeia de caracteres à direita para a cadeia de caracteres existente à esquerda.
+
