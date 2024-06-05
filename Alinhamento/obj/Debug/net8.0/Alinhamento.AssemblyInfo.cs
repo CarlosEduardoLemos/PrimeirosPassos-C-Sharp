@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alinhamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03b048a3747c2e976bfa0aa513fcd513b759a28a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d5ad6861ae8765b52faf20d55f887fc06082a3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alinhamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alinhamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
