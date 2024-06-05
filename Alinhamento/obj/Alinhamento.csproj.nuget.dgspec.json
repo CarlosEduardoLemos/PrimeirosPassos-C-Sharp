@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.lemos\\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\\Documentos\\GitHub\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj": {}
+    "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.lemos\\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\\Documentos\\GitHub\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj": {
+    "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.lemos\\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\\Documentos\\GitHub\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj",
+        "projectUniqueName": "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj",
         "projectName": "Alinhamento",
-        "projectPath": "C:\\Users\\carlos.lemos\\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\\Documentos\\GitHub\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj",
-        "packagesPath": "C:\\Users\\carlos.lemos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.lemos\\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\\Documentos\\GitHub\\PrimeirosPassos-C-Sharp\\Alinhamento\\obj\\",
+        "projectPath": "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\Alinhamento\\Alinhamento.csproj",
+        "packagesPath": "C:\\Users\\karll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karll\\OneDrive\\Documentos\\PrimeirosPassos-C-Sharp\\Alinhamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carlos.lemos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\karll\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
