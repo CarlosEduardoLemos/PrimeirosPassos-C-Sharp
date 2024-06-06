@@ -27,3 +27,7 @@ Use PadLeft() para alinhar uma cadeia de caracteres à direita.
 Alguns métodos são sobrecarregados, o que significa que eles têm várias versões do método com diferentes argumentos que afetam sua funcionalidade.
 O operador += concatena uma nova cadeia de caracteres à direita para a cadeia de caracteres existente à esquerda.
 
+
+
+O método Remove() funciona como o método Substring(), com a diferença de que ele exclui os caracteres especificados na cadeia de caracteres.
+O método Replace() troca todas as instâncias de uma cadeia de caracteres por uma nova cadeia de caracteres.
