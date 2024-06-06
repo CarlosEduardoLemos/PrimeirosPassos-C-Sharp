@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AprendendoSplitJoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c85a7bf56e5cc15411d078d26d6213fa13124192")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecf7886f4b1f487698f56310bb05f1ed4ef1f913")]
 [assembly: System.Reflection.AssemblyProductAttribute("AprendendoSplitJoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AprendendoSplitJoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
