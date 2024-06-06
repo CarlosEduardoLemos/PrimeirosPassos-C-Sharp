@@ -8,8 +8,7 @@ if (flag){
 bool flag = true;
 int value = 0;
 
-if (flag)
-{
+if (flag){
     Console.WriteLine($"Inside the code block: {value}");
 }
 

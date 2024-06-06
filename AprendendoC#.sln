@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolacao", "Interpolaca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDentroBloco", "VarDentroBloco\VarDentroBloco.csproj", "{325B0B74-6AC3-42BE-BD5B-7D88514DB8E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex001", "Ex001\Ex001.csproj", "{03490361-D70A-463C-8282-4CBA1EA0DC00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -252,5 +254,9 @@ Global
 		{325B0B74-6AC3-42BE-BD5B-7D88514DB8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{325B0B74-6AC3-42BE-BD5B-7D88514DB8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{325B0B74-6AC3-42BE-BD5B-7D88514DB8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03490361-D70A-463C-8282-4CBA1EA0DC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03490361-D70A-463C-8282-4CBA1EA0DC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03490361-D70A-463C-8282-4CBA1EA0DC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03490361-D70A-463C-8282-4CBA1EA0DC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
