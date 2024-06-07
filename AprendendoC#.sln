@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoRemove", "MetodoRemov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex002", "ex002\ex002.csproj", "{90BD00B1-75F1-45BF-B96C-0E21FD9AF4C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoVoid", "MetodoVoid\MetodoVoid.csproj", "{7C39C3FC-C125-4E11-BFC8-1DF3656E5C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoVoid2", "MetodoVoid2\MetodoVoid2.csproj", "{D2562EE5-80BF-4569-AE05-1B575EFE9CA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -282,5 +286,13 @@ Global
 		{90BD00B1-75F1-45BF-B96C-0E21FD9AF4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90BD00B1-75F1-45BF-B96C-0E21FD9AF4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90BD00B1-75F1-45BF-B96C-0E21FD9AF4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C39C3FC-C125-4E11-BFC8-1DF3656E5C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C39C3FC-C125-4E11-BFC8-1DF3656E5C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C39C3FC-C125-4E11-BFC8-1DF3656E5C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C39C3FC-C125-4E11-BFC8-1DF3656E5C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2562EE5-80BF-4569-AE05-1B575EFE9CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2562EE5-80BF-4569-AE05-1B575EFE9CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2562EE5-80BF-4569-AE05-1B575EFE9CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2562EE5-80BF-4569-AE05-1B575EFE9CA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

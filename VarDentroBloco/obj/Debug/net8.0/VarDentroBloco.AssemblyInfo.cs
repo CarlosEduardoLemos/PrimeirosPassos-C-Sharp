@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VarDentroBloco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ec4ff88ef648e429e62f62ad24ad055dd2500c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80de6c4a242b95979c5a337d56dfc98a985096b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VarDentroBloco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VarDentroBloco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

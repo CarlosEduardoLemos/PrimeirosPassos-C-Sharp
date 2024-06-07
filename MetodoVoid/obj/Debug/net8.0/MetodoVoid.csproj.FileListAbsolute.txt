@@ -1,0 +1,15 @@
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\bin\Debug\net8.0\MetodoVoid.exe
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\bin\Debug\net8.0\MetodoVoid.deps.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\bin\Debug\net8.0\MetodoVoid.runtimeconfig.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\bin\Debug\net8.0\MetodoVoid.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\bin\Debug\net8.0\MetodoVoid.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.AssemblyInfo.cs
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.sourcelink.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\refint\MetodoVoid.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\MetodoVoid.genruntimeconfig.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\MetodoVoid\obj\Debug\net8.0\ref\MetodoVoid.dll
