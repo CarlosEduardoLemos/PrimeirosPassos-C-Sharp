@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoRemove")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70dbdabca90eac0f1b8261f45552347d5cd8eaff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ec4ff88ef648e429e62f62ad24ad055dd2500c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoRemove")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoRemove")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
