@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\bin\Debug\net8.0\InvertePalavraFrase.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\bin\Debug\net8.0\InvertePalavraFrase.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\bin\Debug\net8.0\InvertePalavraFrase.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\bin\Debug\net8.0\InvertePalavraFrase.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\bin\Debug\net8.0\InvertePalavraFrase.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\refint\InvertePalavraFrase.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\InvertePalavraFrase.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\InvertePalavraFrase\obj\Debug\net8.0\ref\InvertePalavraFrase.dll

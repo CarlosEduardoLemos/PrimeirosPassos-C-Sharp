@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\bin\Debug\net8.0\Matriz01.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\bin\Debug\net8.0\Matriz01.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\bin\Debug\net8.0\Matriz01.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\bin\Debug\net8.0\Matriz01.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\bin\Debug\net8.0\Matriz01.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\refint\Matriz01.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\Matriz01.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Matriz01\obj\Debug\net8.0\ref\Matriz01.dll
