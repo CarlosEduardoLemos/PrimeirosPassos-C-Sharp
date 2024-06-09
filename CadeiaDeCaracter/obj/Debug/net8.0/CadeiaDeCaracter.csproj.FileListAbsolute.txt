@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\bin\Debug\net8.0\CadeiaDeCaracter.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\bin\Debug\net8.0\CadeiaDeCaracter.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\bin\Debug\net8.0\CadeiaDeCaracter.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\bin\Debug\net8.0\CadeiaDeCaracter.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\bin\Debug\net8.0\CadeiaDeCaracter.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\refint\CadeiaDeCaracter.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\CadeiaDeCaracter.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\CadeiaDeCaracter\obj\Debug\net8.0\ref\CadeiaDeCaracter.dll

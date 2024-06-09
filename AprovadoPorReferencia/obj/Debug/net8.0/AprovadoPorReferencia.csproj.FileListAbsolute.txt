@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\bin\Debug\net8.0\AprovadoPorReferencia.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\bin\Debug\net8.0\AprovadoPorReferencia.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\bin\Debug\net8.0\AprovadoPorReferencia.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\bin\Debug\net8.0\AprovadoPorReferencia.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\bin\Debug\net8.0\AprovadoPorReferencia.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\refint\AprovadoPorReferencia.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\AprovadoPorReferencia.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\AprovadoPorReferencia\obj\Debug\net8.0\ref\AprovadoPorReferencia.dll

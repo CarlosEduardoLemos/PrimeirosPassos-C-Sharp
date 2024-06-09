@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\bin\Debug\net8.0\PassagemPorValor.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\bin\Debug\net8.0\PassagemPorValor.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\bin\Debug\net8.0\PassagemPorValor.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\bin\Debug\net8.0\PassagemPorValor.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\bin\Debug\net8.0\PassagemPorValor.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\refint\PassagemPorValor.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\PassagemPorValor.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\PassagemPorValor\obj\Debug\net8.0\ref\PassagemPorValor.dll
