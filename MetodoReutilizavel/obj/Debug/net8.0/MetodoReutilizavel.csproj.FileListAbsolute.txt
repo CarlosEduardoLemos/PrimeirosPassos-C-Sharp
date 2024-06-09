@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\bin\Debug\net8.0\MetodoReutilizavel.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\bin\Debug\net8.0\MetodoReutilizavel.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\bin\Debug\net8.0\MetodoReutilizavel.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\bin\Debug\net8.0\MetodoReutilizavel.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\bin\Debug\net8.0\MetodoReutilizavel.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\refint\MetodoReutilizavel.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\MetodoReutilizavel.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\MetodoReutilizavel\obj\Debug\net8.0\ref\MetodoReutilizavel.dll
