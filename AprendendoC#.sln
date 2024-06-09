@@ -119,6 +119,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame01", "MiniGame01\Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitaZOO", "VisitaZOO\VisitaZOO.csproj", "{A4CD5AF4-16CF-4C04-BC62-1CF9BFBC84BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceção", "Exceção\Exceção.csproj", "{B6E1066F-038D-4302-A78A-737EE5074F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceção01", "Exceção01\Exceção01.csproj", "{620F21CD-8A18-46E1-8C8C-2680588C9538}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -360,5 +364,13 @@ Global
 		{A4CD5AF4-16CF-4C04-BC62-1CF9BFBC84BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4CD5AF4-16CF-4C04-BC62-1CF9BFBC84BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4CD5AF4-16CF-4C04-BC62-1CF9BFBC84BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E1066F-038D-4302-A78A-737EE5074F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E1066F-038D-4302-A78A-737EE5074F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E1066F-038D-4302-A78A-737EE5074F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E1066F-038D-4302-A78A-737EE5074F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620F21CD-8A18-46E1-8C8C-2680588C9538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620F21CD-8A18-46E1-8C8C-2680588C9538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620F21CD-8A18-46E1-8C8C-2680588C9538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620F21CD-8A18-46E1-8C8C-2680588C9538}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\bin\Debug\net8.0\Exceção.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\bin\Debug\net8.0\Exceção.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\bin\Debug\net8.0\Exceção.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\bin\Debug\net8.0\Exceção.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\bin\Debug\net8.0\Exceção.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\refint\Exceção.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\Exceção.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\Exceção\obj\Debug\net8.0\ref\Exceção.dll
