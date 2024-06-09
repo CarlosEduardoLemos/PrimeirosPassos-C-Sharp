@@ -46,3 +46,22 @@ Os métodos que executam alterações em um parâmetro de cadeia de caracteres n
 A depuração de código é uma habilidade crucial no processo de desenvolvimento de software que todos os desenvolvedores aprendem.
 A melhor abordagem para depurar seus aplicativos é usar um depurador, não reler o código cinco vezes ou adicionar instruções console.WriteLine() em todo o código.
 Os depuradores permitem pausar seu aplicativo, percorrer o código linha por linha e observar o estado das variáveis e dos parâmetros de função.
+
+
+As exceções são usadas no C# para propagar erros em runtime e são representadas por classes derivadas da classe Exception.
+As exceções são geradas pelo código que encontra um erro e capturadas pelo código que pode corrigir o erro.
+Quando uma exceção é capturada, o código pode acessar o conteúdo dela e executar uma ação corretiva para atenuar o erro.
+O runtime do .NET gera exceções quando detecta um erro e a exceção contém informações sobre o tipo de erro ocorrido.
+
+
+A interface do usuário do Visual Studio Code pode ser usada para configurar, iniciar e gerenciar as sessões de depuração. O arquivo launch.json contém as configurações de inicialização do aplicativo.
+O menu Executar fornece acesso fácil a comandos comuns de execução e depuração agrupados em seis seções.
+A exibição EXECUTAR E DEPURAR fornece acesso a ferramentas de runtime, incluindo o painel de controles Execução e Depuração. As seções da exibição EXECUÇÃO E DEPURAÇÃO são VARIÁVEIS, INSPEÇÃO, PILHA DE CHAMADAS e PONTOS DE INTERRUPÇÃO.
+A barra de ferramentas Depuração fornece controles de execução enquanto o aplicativo está em execução, como pausar/continuar, depuração parcial, intervir, depuração circular, reiniciar e parar.
+O CONSOLE DE DEPURAÇÃO é usado para exibir mensagens do depurador. O CONSOLE DE DEPURAÇÃO também pode exibir a saída do console do aplicativo.
+
+
+O Visual Studio Code permite a configuração de pontos de interrupção no editor de código ou no menu Executar. As linhas de código do ponto de interrupção são marcadas com um ponto vermelho à esquerda do número de linha.
+Os pontos de interrupção podem ser removidos ou desabilitados com as mesmas opções usadas para defini-los. As operações em massa que afetam todos os pontos de interrupção estão disponíveis no menu Executar.
+Os pontos de interrupção condicionais podem ser usados para pausar a execução quando uma condição especificada é atendida ou quando uma “contagem de ocorrências” é alcançada.
+Os logpoints podem ser usados para registrar informações no terminal sem pausar a execução ou inserir código.
