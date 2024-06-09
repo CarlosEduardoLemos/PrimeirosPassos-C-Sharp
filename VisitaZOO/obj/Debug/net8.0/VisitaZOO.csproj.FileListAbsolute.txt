@@ -1,0 +1,15 @@
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\bin\Debug\net8.0\VisitaZOO.exe
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\bin\Debug\net8.0\VisitaZOO.deps.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\bin\Debug\net8.0\VisitaZOO.runtimeconfig.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\bin\Debug\net8.0\VisitaZOO.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\bin\Debug\net8.0\VisitaZOO.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.AssemblyInfoInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.AssemblyInfo.cs
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.csproj.CoreCompileInputs.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.sourcelink.json
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\refint\VisitaZOO.dll
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.pdb
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\VisitaZOO.genruntimeconfig.cache
+C:\Users\karll\OneDrive\Documentos\PrimeirosPassos-C-Sharp\VisitaZOO\obj\Debug\net8.0\ref\VisitaZOO.dll

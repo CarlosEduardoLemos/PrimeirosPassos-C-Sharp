@@ -1,8 +1,10 @@
 Use as sequências de escape de caractere quando precisar inserir um caractere especial em uma cadeia de caracteres literal, como uma tabulação \t, uma nova linha \n ou uma aspa dupla \".
 
+
 Use um caractere de escape para a barra invertida \\ quando precisar usar uma barra invertida em todos os outros cenários.
 Use a diretiva @ para criar um literal de cadeia de caracteres que mantenha toda a formatação de espaço em branco e caracteres de barra invertida em uma cadeia de caracteres.
 Use o \u mais um código de quatro caracteres para representar caracteres Unicode (UTF-16) em uma cadeia de caracteres.
+
 
 Os caracteres Unicode podem não ser impressos corretamente dependendo do aplicativo.
 A concatenação de cadeia de caracteres permite combinar cadeias de caracteres literais menores e variáveis em uma única cadeia de caracteres.
@@ -28,10 +30,8 @@ Alguns métodos são sobrecarregados, o que significa que eles têm várias vers
 O operador += concatena uma nova cadeia de caracteres à direita para a cadeia de caracteres existente à esquerda.
 
 
-
 O método Remove() funciona como o método Substring(), com a diferença de que ele exclui os caracteres especificados na cadeia de caracteres.
 O método Replace() troca todas as instâncias de uma cadeia de caracteres por uma nova cadeia de caracteres.
-
 
 
 As variáveis podem ser categorizadas como tipos de valor e tipos de referência.
@@ -40,3 +40,9 @@ Métodos que usam argumentos de tipo de valor criam a própria cópia dos valore
 Métodos que executam alterações em um parâmetro de matriz afetam a matriz de entrada original.
 A cadeia de caracteres é um tipo de referência imutável.
 Os métodos que executam alterações em um parâmetro de cadeia de caracteres não afetam a cadeia de caracteres original.
+
+
+
+A depuração de código é uma habilidade crucial no processo de desenvolvimento de software que todos os desenvolvedores aprendem.
+A melhor abordagem para depurar seus aplicativos é usar um depurador, não reler o código cinco vezes ou adicionar instruções console.WriteLine() em todo o código.
+Os depuradores permitem pausar seu aplicativo, percorrer o código linha por linha e observar o estado das variáveis e dos parâmetros de função.
