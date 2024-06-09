@@ -107,6 +107,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprovadoPorReferencia", "Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadeiaDeCaracter", "CadeiaDeCaracter\CadeiaDeCaracter.csproj", "{86C639DC-BA7B-4727-A84E-23B5993213A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email\Email.csproj", "{D80EBE7F-39E0-4B8C-BDC9-4BBE966DE30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex003", "Ex003\Ex003.csproj", "{9B298481-B192-427E-881B-44683DF7332A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -324,5 +328,13 @@ Global
 		{86C639DC-BA7B-4727-A84E-23B5993213A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86C639DC-BA7B-4727-A84E-23B5993213A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86C639DC-BA7B-4727-A84E-23B5993213A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80EBE7F-39E0-4B8C-BDC9-4BBE966DE30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80EBE7F-39E0-4B8C-BDC9-4BBE966DE30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80EBE7F-39E0-4B8C-BDC9-4BBE966DE30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80EBE7F-39E0-4B8C-BDC9-4BBE966DE30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B298481-B192-427E-881B-44683DF7332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B298481-B192-427E-881B-44683DF7332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B298481-B192-427E-881B-44683DF7332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B298481-B192-427E-881B-44683DF7332A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
