@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodDuplicado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9082c58d11279766260db1f77a1db80d50fcc578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a56ad667388cf51bef646c7a4d69580f04485a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodDuplicado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodDuplicado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
