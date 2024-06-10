@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassagemPorValor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e239098903de8f43c840f8126a511336167af76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c1304e31a3513e7cbba67c4565819e158e2045")]
 [assembly: System.Reflection.AssemblyProductAttribute("PassagemPorValor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassagemPorValor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
