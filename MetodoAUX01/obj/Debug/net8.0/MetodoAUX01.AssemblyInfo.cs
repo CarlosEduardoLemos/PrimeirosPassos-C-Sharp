@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoAUX01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c1304e31a3513e7cbba67c4565819e158e2045")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462661feb04b590144b7146dcb4f7ab244a83c63")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoAUX01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoAUX01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
