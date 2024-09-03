@@ -28,3 +28,18 @@ C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestre
 C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.pdb
 C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.genruntimeconfig.cache
 C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Documentos\GitHub\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\ref\AnimaisDestimacao.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.exe
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.deps.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.runtimeconfig.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\bin\Debug\net8.0\AnimaisDestimacao.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.AssemblyInfoInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.AssemblyInfo.cs
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.csproj.CoreCompileInputs.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.sourcelink.json
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\refint\AnimaisDestimacao.dll
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.pdb
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\AnimaisDestimacao.genruntimeconfig.cache
+C:\Users\carlos.lemos\OneDrive - ANTT- Agencia Nacional de Transportes Terrestres\Área de Trabalho\PrimeirosPassos-C-Sharp\AnimaisDestimacao\obj\Debug\net8.0\ref\AnimaisDestimacao.dll
